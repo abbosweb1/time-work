@@ -18,6 +18,7 @@ function Card5() {
         <h3>test 3</h3>
         <h4>test 4</h4>
         <h5>nimadur</h5>
+        <h6>nimadur</h6>
         <div className="wrapperSft">
         <div className="imgSifat"></div>
         </div>
