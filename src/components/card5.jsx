@@ -14,6 +14,8 @@ function Card5() {
     <div data-aos="fade-right" className="card5">
         <h1>Район на карте</h1>
         <h1>Hello world</h1>
+        <h2>test uchun</h2>
+        <h3>test 3</h3>
         <div className="wrapperSft">
         <div className="imgSifat"></div>
         </div>
