@@ -1,0 +1,11 @@
+.Kvartira {
+  width: 100%;
+  height: auto;
+  display: flex;
+  background-color: #242b33;
+  align-items: center;
+  justify-content: center;
+  flex-wrap: wrap;
+  padding: 20px;
+  gap: 20px;
+}

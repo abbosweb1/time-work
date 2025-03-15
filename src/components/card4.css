@@ -1,0 +1,13 @@
+.card4{
+    width: 100%;
+    height: auto;
+    /* border: 2px solid red; */
+    margin: 12.5vw 0 0 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: #242B33;
+}
+.card4>img{
+    width: 49vw;
+}
